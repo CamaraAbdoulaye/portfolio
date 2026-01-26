@@ -6,11 +6,14 @@ Bienvenue sur mon portfolio. Vous trouverez ici :
   
 🌐 Site : https://camaraabdoulaye.github.io/portfolio/
 ## Compétences
-- Support informatique (diagnostic, résolution d’incidents)
-- Administration Windows / systèmes
+- Support informatiquede premier niveau (hardware et logiciel)
+- Administration systèmes ( Window, Linux)
 - Réseaux (concepts CCNA, configuration, troubleshooting)
-- PowerShell (scripts d’automatisation)
-- Virtualisation (bases)
+- Automatisation
+- Virtualisation (Window, Linux)
 ## Projets
+- Sécurisation et Gestion Avancée des Clients Windows 
 - Labs Réseaux (VLAN, routage, security, addressage.)
-- Scripts PowerShell (automatisation)
+- Serveur de messagerie sécurisé basé sur le système Linux
+
+
