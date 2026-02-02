@@ -1,8 +1,8 @@
 # Portfolio – Support IT / Administrateur système / Virtualisation
 Bienvenue sur mon portfolio. Vous trouverez ici :
-- Mes projets (réseaux, administration système, automatisation)
+- Mes projets (réseaux, administration système, sécurité informatique et  automatisation)
 - Mes compétences techniques
-- Mon CV
+  
   
 🌐 Site : https://camaraabdoulaye.github.io/portfolio/
 ## Compétences
